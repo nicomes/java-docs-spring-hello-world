@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'infodata'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C4B62D9CA0654F5EB8142A6E7D661FA3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_29692A94B3314DCC832278D12D42E534 }}
           package: '*.jar'
